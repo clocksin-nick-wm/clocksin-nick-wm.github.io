@@ -22,7 +22,9 @@ body {
   line-height: 28px;
   color: #000;
 }
-
+#top-button {
+  margin-top: 50%;
+}
 /* default css
 ----------------------------------------------------*/
 .form-control:focus {
