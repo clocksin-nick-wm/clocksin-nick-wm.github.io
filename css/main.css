@@ -859,6 +859,11 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 
 /* what we've done
 ----------------------------------------------------*/
+#Title{
+  position: relative;
+  bottom: 50%;
+
+}
 .whatwedone {
   text-align: center;
   position: relative;
