@@ -861,7 +861,8 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 ----------------------------------------------------*/
 #Title{
   position: relative;
-  bottom: 50%;
+  bottom: 15%;
+  opacity: 0.5;
 
 }
 .whatwedone {
