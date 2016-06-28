@@ -485,6 +485,8 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 
 .whatwedo p {
   color: #606369;
+  align-content: center;
+  text-align: center;
 }
 
 .whatwedo .digitalsolutions {
@@ -541,7 +543,7 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 }
 
 .whatwedo .percent:after {
-  content: '%';
+  content: '';
   margin-left: 0.1em;
 }
 
@@ -552,7 +554,9 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 .whatwedo .angular .chart {
   margin-top: 0;
 }
-
+.camps{
+  margin-left: 23%;
+}
 /* work process
 ----------------------------------------------------*/
 .workprocess {
