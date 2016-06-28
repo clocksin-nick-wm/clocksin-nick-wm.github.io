@@ -579,6 +579,7 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 .workprocess .nav-tabs {
   border-bottom: 1px solid #79807c;
   margin-top: 30px;
+  align-content: center;
 }
 
 .workprocess .nav-tabs > li {
@@ -589,6 +590,7 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
   border: 1px solid transparent;
   border-radius: 4px 4px 0 0;
   padding: 10px 0 20px 0;
+  align-content: center;
 }
 
 .workprocess .nav-tabs > li > a:hover {
