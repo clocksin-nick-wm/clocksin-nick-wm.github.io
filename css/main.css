@@ -554,9 +554,7 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 .whatwedo .angular .chart {
   margin-top: 0;
 }
-.camps{
-  margin-left: 23%;
-}
+
 /* work process
 ----------------------------------------------------*/
 .workprocess {
@@ -565,7 +563,10 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
   background: url(../images/bg_workprocess.jpg) no-repeat center;
   background-size: cover;
 }
-
+.workprocess img {
+  height: 60%;
+  width: 60%;
+}
 .workprocess h3 {
   color: #fff;
   margin-top: 152px;
