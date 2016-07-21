@@ -474,7 +474,11 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 .welcome h4 {
   padding: 0 0 173px 0;
 }
+.started {
+  background: #fff;
+  text-align: center;
 
+}
 /* what we do
 ----------------------------------------------------*/
 .whatwedo {
@@ -870,22 +874,29 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
   position: relative;
   bottom: 15%;
   opacity: 0.5;
-
+}
+#backdrop{
+  text-align: center;
+  position: relative;
+  background: url(../images/Girls%20Leadership%20Conference.jpg) no-repeat center;
+  background-size: cover;
+  opacity:1;
 }
 .whatwedone {
   text-align: center;
   position: relative;
-  background: url(../images/bg_portfolio.jpg) no-repeat center;
+  background: url(../images/Girls%20Leadership%20Conference.jpg) no-repeat center;
   background-size: cover;
+  opacity:0.75555;
 }
 
 .whatwedone h3 {
-  color: #fff;
+  color: #FFFFFF;
   margin-top: 129px;
 }
 
-.whatwedone h4 {
-  color: #ff9900;
+.whatwedone p {
+  color: #FFFFFF;
   margin: 34px 0 100px 0;
 }
 
